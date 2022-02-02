@@ -6,4 +6,4 @@ Concepts developed in this project:
 - Use of all kind of selectors.
 - Use of animations, transformations, opacity and shadow.
 - Use of flex and grid.
-- Use of Node.js 
+- Use of Node.js to view the rendered website and interact with it.

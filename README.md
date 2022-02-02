@@ -1,2 +1,8 @@
 # Pebona
 Design and implementation of a responsive website for a real clothing brand called Pebona. Made using HTML and CSS.
+
+Concepts developed in this project:
+- Use of box model attributes.
+- Use of all kind of selectors.
+- Use animations, transformations, opacity and shadow.
+- Use flex and grid.
